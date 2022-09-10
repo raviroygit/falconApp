@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-falcon-dev-95844-authRole",
+      "UnauthRoleArn": "arn:aws:iam::104582677844:role/amplify-falcon-dev-95844-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::104582677844:role/amplify-falcon-dev-95844-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-falcon-dev-95844-deployment",
+      "UnauthRoleName": "amplify-falcon-dev-95844-unauthRole",
+      "StackName": "amplify-falcon-dev-95844",
+      "StackId": "arn:aws:cloudformation:us-east-1:104582677844:stack/amplify-falcon-dev-95844/798fe660-f508-11ec-b41b-12027c3bee8d",
+      "AmplifyAppId": "dseb2ek39mv1d"
+    },
+    "categories": {
+      "auth": {
+        "falcon78c5733b": {}
+      }
+    }
+  }
+}
